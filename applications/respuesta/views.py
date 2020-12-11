@@ -19,7 +19,7 @@ class RespuestasListApiView(ListAPIView):
 class RespuestasCreateView(CreateAPIView):
     serializer_class = RespuestaSerializer
    
-    
+    #hk
 
 
 class RespuestasRetrieveView(RetrieveAPIView):
